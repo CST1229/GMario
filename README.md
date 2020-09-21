@@ -8,7 +8,6 @@
 * Coins and a timer
 * Running, jumping and crouching
 * 1 enemy, you can add more
-* Powerups
 * Mario sprites with slightly more frames (SMW Newframe)
 * Bugs
 * Open source
@@ -34,6 +33,6 @@ I will probably not keep developing this, because i don't know what to do next. 
 _Made by CST1229. Website at [cst1229.github.io.](https://cst1229.github.io)_  
 **This is a fanmade project and is not endorsed by the author of the franchise.**  
 **All characters belong to Nintendo.**  
-
+**See LICENSE.md for details.**  
 
 
